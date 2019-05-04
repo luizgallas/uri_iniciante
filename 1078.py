@@ -1,0 +1,22 @@
+valor = int(input())
+t1 = 1 * valor
+t2 = 2 * valor
+t3 = 3 * valor
+t4 = 4 * valor
+t5 = 5 * valor
+t6 = 6 * valor
+t7 = 7 * valor
+t8 = 8 * valor
+t9 = 9 * valor
+t10 = 10 * valor
+
+print("1 x %d = %d" %(valor,t1))
+print("2 x %d = %d" %(valor,t2))
+print("3 x %d = %d" %(valor,t3))
+print("4 x %d = %d" %(valor,t4))
+print("5 x %d = %d" %(valor,t5))
+print("6 x %d = %d" %(valor,t6))
+print("7 x %d = %d" %(valor,t7))
+print("8 x %d = %d" %(valor,t8))
+print("9 x %d = %d" %(valor,t9))
+print("10 x %d = %d" %(valor,t10))
